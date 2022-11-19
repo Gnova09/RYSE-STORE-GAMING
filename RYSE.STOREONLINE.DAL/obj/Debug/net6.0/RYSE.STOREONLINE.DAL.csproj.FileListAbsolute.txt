@@ -1,0 +1,5 @@
+D:\Georg\Georges\CLASES\2022C3\Programacion\RYSE-STORE-GAMING\RYSE.STOREONLINE.DAL\obj\Debug\net6.0\RYSE.STOREONLINE.DAL.csproj.AssemblyReference.cache
+D:\Georg\Georges\CLASES\2022C3\Programacion\RYSE-STORE-GAMING\RYSE.STOREONLINE.DAL\obj\Debug\net6.0\RYSE.STOREONLINE.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Georg\Georges\CLASES\2022C3\Programacion\RYSE-STORE-GAMING\RYSE.STOREONLINE.DAL\obj\Debug\net6.0\RYSE.STOREONLINE.DAL.AssemblyInfoInputs.cache
+D:\Georg\Georges\CLASES\2022C3\Programacion\RYSE-STORE-GAMING\RYSE.STOREONLINE.DAL\obj\Debug\net6.0\RYSE.STOREONLINE.DAL.AssemblyInfo.cs
+D:\Georg\Georges\CLASES\2022C3\Programacion\RYSE-STORE-GAMING\RYSE.STOREONLINE.DAL\obj\Debug\net6.0\RYSE.STOREONLINE.DAL.csproj.CoreCompileInputs.cache

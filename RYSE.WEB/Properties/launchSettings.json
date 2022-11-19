@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RYSE.WEB": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50742;http://localhost:50743"
+    }
+  }
+}
